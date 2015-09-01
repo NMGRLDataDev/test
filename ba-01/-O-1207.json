@@ -1,0 +1,68 @@
+{
+    "aliquot": 1207, 
+    "analysis_type": "blank_air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "85cb10580c6aa64225718468f443bc9a0cc0444a", 
+    "detectors": {
+        "AX": {
+            "deflection": 120.0, 
+            "gain": 0.099113
+        }, 
+        "CDD": {
+            "deflection": 130.0, 
+            "gain": 0.0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 1.00113176150108
+        }, 
+        "H2": {
+            "deflection": 200.0, 
+            "gain": 0.977846837717006
+        }, 
+        "L1": {
+            "deflection": 200.0, 
+            "gain": 0.990925709768888
+        }, 
+        "L2": {
+            "deflection": 420.0, 
+            "gain": 0.985511183232165
+        }
+    }, 
+    "experiment_identifier": "test", 
+    "identifier": "ba-01-O", 
+    "increment": null, 
+    "irradiation": "", 
+    "irradiation_level": "", 
+    "irradiation_position": 0, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Obama", 
+    "material": "blank", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "blank_air", 
+    "spec_sha": "6621513d4a962d57a7868dcdef5230505dedab01", 
+    "timestamp": "2015-09-01T17:13:04.472216", 
+    "username": "root", 
+    "uuid": "c0fb64ed-409a-4529-854f-597586ee3921"
+}
